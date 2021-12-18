@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @stwu222
+- 👀 I’m interested in Ai/ML stuff
+- 🌱 I’m currently learning linux and python
+- 💞️ I’m looking to collaborate on motion detection using Coral.ai dev board
